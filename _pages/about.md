@@ -34,10 +34,10 @@ If you are interested, feel free to contact me for future collaborations through
 - *2024.06* 💻 **Regional Awards, 17th China College Student Computer Design Competition (Central South Region)**  
 - *2025.01* 💻 **Team Leader, Mathematical Contest in Modeling (MCM), USA**  
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2022.09 - 2025.03 (now)*, Undergraduate, School of Computer Science, Xiangtan University, Xiangtan, 411105, China. 
 
-<!-- # 💬 Invited Talks
+# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
