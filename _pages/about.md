@@ -24,19 +24,14 @@ My research focuses on **drug-target binding affinity (DTA) prediction** and **m
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 I submitted a paper as the first author to Interdisciplinary Sciences: Computational Life Sciences. 
-- *2024.10*: &nbsp;🎉🎉 I was awarded the National Endeavor Scholarship. 
-- *2024.02*: &nbsp;🎉🎉 I received the University Outstanding Volunteer Award
-- *2023.10*: &nbsp;🎉🎉 I was awarded the National Endeavor Scholarship. 
 
 # 📝 Publications 
 📢 Stay tuned for our latest research updates!
 
 # 🏅 Honors and Awards
-- *2024.08* **Second Prize (National Level), 17th National College Student Information Security Contest**  
-- *2024.06* **Regional Awards, 17th China College Student Computer Design Competition (Central South Region)**  
-- *2023.04* **Provincial Awards, 15th Blue Bridge Cup (Hunan) - C/C++ Programming (Group B, University Level)**  
-- *2024.04* **Provincial Awards, 16th Blue Bridge Cup (Hunan) - JAVA Software Development (Group A, University Level)**  
-- *2025.01* **Team Leader, Mathematical Contest in Modeling (MCM), USA**  
+- *2024.08* 💻 **Second Prize (National Level), 17th National College Student Information Security Contest**  
+- *2024.06* 💻 **Regional Awards, 17th China College Student Computer Design Competition (Central South Region)**  
+- *2025.01* 💻 **Team Leader, Mathematical Contest in Modeling (MCM), USA**  
 
 # 📖 Educations
 - *2022.09 - 2025.03 (now)*, Undergraduate, School of Computer Science, Xiangtan University, Xiangtan, 411105, China. 
