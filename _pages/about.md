@@ -18,16 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 👋 Hi, I'm **Dan Luo**, an undergraduate student from China, passionate about **Bioinformatics** and **Deep Learning**.  
-My research focuses on **drug-target binding affinity (DTA) prediction** and **molecular docking**, leveraging advanced AI techniques to explore computational biology.  
-
-I build predictive models using **Python** and **PyTorch**, integrating **GNNs, transformers, and multi-modal learning** to enhance drug discovery workflows.  
-
-Always eager to learn and collaborate! Feel free to connect or reach me via:  
-
-📩 **Email:** [shmily_ld@foxmail.com](mailto:shmily_ld@foxmail.com)  
-📱 **WeChat:**  
-<span onmouseover="document.getElementById('wechat-img').style.display='block'" onmouseout="document.getElementById('wechat-img').style.display='none'">WeChat QR Code</span>  
-<img id="wechat-img" src="image/wechat.png" style="display:none; position:absolute; width:150px;" />
+My research focuses on **drug-target binding affinity (DTA) prediction** and **molecular docking**, leveraging advanced AI techniques to explore computational biology. If you are interested, feel free to contact me for future collaborations through <a href="mailto:shmily_ld@foxmail.com">Email</a> or [WeChat](../images/wechat.png).
 
 
 
