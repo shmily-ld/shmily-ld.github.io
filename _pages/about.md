@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 👋 Hi, I'm **Dan Luo**, an undergraduate student from China, passionate about **Bioinformatics** and **Deep Learning**.  
-My research focuses on **drug-target binding affinity prediction** and **molecular docking**, leveraging advanced AI techniques to explore computational biology. If you are interested, feel free to contact me for future collaborations through <a href="mailto:shmily_ld@foxmail.com">Email</a> or [WeChat](../images/wechat.png).
+My research focuses on **drug-target binding affinity prediction** and **molecular docking**, leveraging advanced AI techniques to explore computational biology.
+If you are interested, feel free to contact me for future collaborations through <a href="mailto:shmily_ld@foxmail.com">Email</a> or [WeChat](../images/wechat.png).
 
 
 
