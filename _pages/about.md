@@ -45,7 +45,7 @@ My research focuses on **drug-target binding affinity prediction** and **molecul
 
 # 🌍 Visitor Map
 <div id="clustr_globe_container" style="width: 300px; height: 300px;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=LVRpiHPJ9EccKrDygKWKGugARtYro9yYdqJPLypNKYE"></script>
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=fRwMfbkNRIsZ_Uhvitq0p42nQC8iJxS7kkTn7dirHFE"></script>
 </div>
 <style>
     #clustr_globe_container {
