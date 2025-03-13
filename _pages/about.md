@@ -54,3 +54,7 @@ If you are interested, feel free to contact me for future collaborations through
         height: 50px; 
     }
 </style>
+
+<span id="busuanzi_container_site_pv">
+    本站总访问量<span id="busuanzi_value_site_pv"></span>次
+</span>
