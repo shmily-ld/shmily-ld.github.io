@@ -46,7 +46,8 @@ If you are interested, feel free to contact me for future collaborations through
 
 # 🌍 Visitor Map
 <div id="clustr_globe_container" style="width: 300px; height: 300px;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=fRwMfbkNRIsZ_Uhvitq0p42nQC8iJxS7kkTn7dirHFE"></script>
+<!--     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=fRwMfbkNRIsZ_Uhvitq0p42nQC8iJxS7kkTn7dirHFE"></script> -->
+      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=fRwMfbkNRIsZ_Uhvitq0p42nQC8iJxS7kkTn7dirHFE&co=b0e2f3'></script>
 </div>
 <style>
     #clustr_globe_container {
@@ -54,7 +55,3 @@ If you are interested, feel free to contact me for future collaborations through
         height: 50px; 
     }
 </style>
-
-<span id="busuanzi_container_site_pv">
-    本站总访问量<span id="busuanzi_value_site_pv"></span>次
-</span>
