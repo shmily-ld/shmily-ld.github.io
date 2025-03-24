@@ -46,6 +46,5 @@ If you are interested, feel free to contact me for future collaborations through
 
 # 🌍 Visitor Map
 <div id="clustr_globe_container" style="width: 300px; height: 300px;">
-<!--     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=fRwMfbkNRIsZ_Uhvitq0p42nQC8iJxS7kkTn7dirHFE"></script> -->
-      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=tt&d=fRwMfbkNRIsZ_Uhvitq0p42nQC8iJxS7kkTn7dirHFE&co=45c8fb'></script>
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=fRwMfbkNRIsZ_Uhvitq0p42nQC8iJxS7kkTn7dirHFE"></script>
 </div>
