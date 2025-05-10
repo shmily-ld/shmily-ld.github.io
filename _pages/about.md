@@ -24,7 +24,7 @@ If you are interested, feel free to contact me for future collaborations through
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 I submitted a paper as the first author to Interdisciplinary Sciences: Computational Life Sciences. 
+- *2025.04*: &nbsp;🎉🎉 The paper "DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamic Descriptors and Graph Representation" as the first author is accepted at *Interdisciplinary Sciences: Computational Life Sciences*. 
 
 # 📝 Publications 
 📢 Stay tuned for our latest research updates!
