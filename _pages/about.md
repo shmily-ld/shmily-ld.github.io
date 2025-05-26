@@ -44,7 +44,7 @@ If you are interested, feel free to contact me for future collaborations through
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 🌍 Visitor Map
+# 🌍 Visitor Map (Last 7 Days)
 <div id="clustr_globe_container" style="width: 300px; height: 300px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=fRwMfbkNRIsZ_Uhvitq0p42nQC8iJxS7kkTn7dirHFE"></script>
 </div>
