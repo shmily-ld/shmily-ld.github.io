@@ -17,14 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 Hi, I'm **Dan Luo**, an undergraduate student from China, passionate about **Bioinformatics** and **Deep Learning**.  
-My research focuses on **drug-target binding affinity prediction** and **molecular docking**, leveraging advanced AI techniques to explore computational biology.
+👋 Hi, I'm **Dan Luo**, a direct-entry Ph.D. student at HNU, China, passionate about **Bioinformatics** and **Deep Learning**.  
+My research focuses on **AI4Science** and **Drug Design**, leveraging advanced AI techniques to explore computational biology.
 If you are interested, feel free to contact me for future collaborations through <a href="mailto:shmily_ld@foxmail.com">Email</a> or [WeChat](../images/wechat.png).
 
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 The paper "DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamic Descriptors and Graph Representation" as the first author is accepted at *Interdisciplinary Sciences: Computational Life Sciences*. 
+- *2025.06*: &nbsp;🎉🎉 The paper "DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamic Descriptors and Graph Representation" as the first author was published in *Interdisciplinary Sciences: Computational Life Sciences*.
+
+- *2026.04*: &nbsp;🎉🎉 The paper "A Triple-Modal Contrastive Learning Framework with Sequence, Graph, and 3D Features for Drug–Target Interaction Prediction" as the third author was published at the *International Symposium on Bioinformatics Research and Applications (ISBRA)*.
+
+- *2026.09*: &nbsp;🎉🎉 The paper "A Systematic Evaluation of Molecule Generation Models for *De Novo* Drug Design: From Benchmarks to Practical Insights" as a co-corresponding author was published in *Journal of Chemical Information and Modeling*.
+
+- *2026.09*: &nbsp;📝 A first-author paper was submitted to *ICLR*.
 
 # 📝 Publications 
 📢 Stay tuned for our latest research updates!
